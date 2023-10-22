@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="sample-water.kraft-viewmodel" target="17" />
+      <module name="sample-water.sample" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
